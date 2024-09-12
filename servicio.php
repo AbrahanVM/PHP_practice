@@ -1,8 +1,1 @@
-
-
-<?php
-
-echo "Mendez Montero Victor Abrahan";
-
-
-?>
+Mendez Montero Victor Abrahan
